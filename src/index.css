@@ -1,0 +1,34 @@
+body{
+  background-color: #efe6c1 !important;
+}
+.spinners{
+  background-color: rgba(0,0,0,0.4);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  margin: 0 auto;
+}
+.spinners img{
+  display: block;
+  margin:  auto;
+}
+.landing {
+  background-image: url("https://media.istockphoto.com/id/1432008551/photo/businessman-holding-a-bright-light-bulb-creativity-with-light-bulbs-and-energy-power-hand-of.jpg?s=2048x2048&w=is&k=20&c=RmDFgQE3UPKT4VDONNAvlCP-QxsBQcgrt8tVZeM-d48="); 
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.display-2 {
+  color: #e90395; /* Text color */
+}
+
+.btn {
+  background-color: #dc3545; /* Button background color */
+  color: #fff; /* Button text color */
+}
